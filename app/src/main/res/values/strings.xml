@@ -1,0 +1,23 @@
+<resources>
+<string name="app_name">FocusGuard</string>
+<string name="today">Today</string>
+<string name="limits">Limits</string>
+<string name="setup">Setup</string>
+<string name="total">Total screen time</string>
+<string name="most_used">Most used</string>
+<string name="add_limit">Add limit</string>
+<string name="save">Save</string>
+<string name="remove">Remove limit</string>
+<string name="daily_limit">Daily limit</string>
+<string name="time_up">Time\'s up</string>
+<string name="time_up_msg">You\'ve reached your daily limit for %1$s.</string>
+<string name="go_home">Go home</string>
+<string name="usage_access">Usage access</string>
+<string name="usage_desc">Lets FocusGuard measure time spent in each app.</string>
+<string name="overlay">Display over other apps</string>
+<string name="overlay_desc">Lets FocusGuard lock an app when its limit is reached.</string>
+<string name="grant">Grant</string>
+<string name="granted">On</string>
+<string name="no_limits">No limits yet. Tap \"Add limit\" to start.</string>
+<string name="search">Search apps</string>
+</resources>

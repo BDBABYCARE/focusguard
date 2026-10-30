@@ -1,0 +1,22 @@
+<resources>
+<string name="today">Hoy</string>
+<string name="limits">Límites</string>
+<string name="setup">Ajustes</string>
+<string name="total">Tiempo total de pantalla</string>
+<string name="most_used">Más usadas</string>
+<string name="add_limit">Añadir límite</string>
+<string name="save">Guardar</string>
+<string name="remove">Quitar límite</string>
+<string name="daily_limit">Límite diario</string>
+<string name="time_up">Se acabó el tiempo</string>
+<string name="time_up_msg">Has alcanzado tu límite diario de %1$s.</string>
+<string name="go_home">Ir al inicio</string>
+<string name="usage_access">Acceso de uso</string>
+<string name="usage_desc">Permite medir el tiempo en cada app.</string>
+<string name="overlay">Mostrar sobre otras apps</string>
+<string name="overlay_desc">Permite bloquear una app al llegar a su límite.</string>
+<string name="grant">Conceder</string>
+<string name="granted">Activo</string>
+<string name="no_limits">Aún no hay límites. Toca \"Añadir límite\".</string>
+<string name="search">Buscar apps</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+<string name="today">আজ</string>
+<string name="limits">সীমা</string>
+<string name="setup">সেটআপ</string>
+<string name="total">মোট স্ক্রিন টাইম</string>
+<string name="most_used">সবচেয়ে বেশি ব্যবহৃত</string>
+<string name="add_limit">সীমা যোগ করুন</string>
+<string name="save">সংরক্ষণ</string>
+<string name="remove">সীমা মুছুন</string>
+<string name="daily_limit">দৈনিক সীমা</string>
+<string name="time_up">সময় শেষ</string>
+<string name="time_up_msg">%1$s এর জন্য আপনার দৈনিক সীমা শেষ।</string>
+<string name="go_home">হোমে যান</string>
+<string name="usage_access">ইউসেজ অ্যাক্সেস</string>
+<string name="usage_desc">প্রতিটি অ্যাপে কত সময় কাটছে তা মাপতে দেয়।</string>
+<string name="overlay">অন্য অ্যাপের উপরে দেখান</string>
+<string name="overlay_desc">সীমা শেষ হলে অ্যাপ লক করতে দেয়।</string>
+<string name="grant">অনুমতি দিন</string>
+<string name="granted">চালু</string>
+<string name="no_limits">এখনো কোনো সীমা নেই। \"সীমা যোগ করুন\" চাপুন।</string>
+<string name="search">অ্যাপ খুঁজুন</string>
+</resources>
